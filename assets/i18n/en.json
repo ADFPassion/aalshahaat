@@ -1,0 +1,56 @@
+{
+    "global": {
+        "app-name": "Aal ShahaaT"
+       
+    },
+
+    "profile-shahat": {
+        "name": "Alshahat Mouhammad Anwar",
+        "from-to":" 1 July 1950 : 13 Jan 2008",
+        "title": "His Eminence Sheikh Alshahaat Anwar",
+        "desc":" O Allah, forgive him and elevate his station among those who are guided. Send him along the path of those who came before, and forgive us and him, O Lord of the worlds. Enlarge for him his grave and shed light upon him in it."
+       
+    },
+
+    "profile-mahm": {
+        "name": "Mahmoud AlShahaT",
+        "from-to":"٧٨",
+        "title": "Sheikh Reciter",
+        "desc":"Born in 1984 (Egypt). Son of the late great reciter Sheikh Qari Shahat Muhammad Anwar and brother to the brilliant reciter Sheikh Qari Anwar Shahat Anwar. Sheikh has travelled extensively around the world reciting at many official ceremonies and personal events."
+       
+    },
+    "profile-anwar": {
+        "name": "Anwar AlShahaT",
+        "from-to":"٧٨",
+        "title": "Sheikh Reciter",
+        "desc":"Born in 1978 (Egypt).Son of the late great reciter Sheikh Qari Shahat Muhammad Anwar and elder brother to the brilliant reciter Sheikh Qari Mahmoud Shahat , besides his knowledge , perseverance , It takes an influential person to be the backbone of a family."
+       
+    },
+    "main-hamd":{
+        "desc":"All the praises and thanks be to Allah, Who has sent down to His slave (Muhammad SAW) the Book (the Quran), and has not placed therein any crookedness , peace and blessings be upon His honest Messenger Mohammed bin Abdullah and upon his family and companions , Ibn Mas’ud reported: The Messenger of Allah, peace and blessings be upon him, said, “If any Muslim is afflicted with distress and makes this supplication, then his supplication will be answered: O Allah, I am your servant, the son of your servant, the son of your maidservant. My forelock is in your hand, your command concerning me prevails, and your decision concerning me is just. I call upon you by every one of the beautiful names with which you have described yourself, or which you have revealed in your Book, or you have taught to any of your creatures, or which you have chosen to keep in the knowledge of the unseen with you, to make the Quran the delight of my soul, the light of my heart, and to remove my sadness and dispel my anxiety.” The Prophet aid, “If he says this, Allah will remove his affliction and replace it with joy and happiness.” They said, “O Messenger of Allah, should we not learn it?” The Prophet said, “Yes, whoever hears it should know it.”Source: Musnad Aḥmad 3704"
+    },
+    "sha3rawi":{
+        "desc":"Everything wither away if it left abandoned , unless the Qur'an , if you abadon it , its you whos going to wither away.",
+        "name":"Mouhammad Metwali Alsha'rawi"
+
+    },
+    "dua":{
+        "sectionOne":"Our Lord! Accept (this service) from us: For Thou art the All-Hearing, the All-knowing. Surah Al-Baqarah - 2:127",
+        "sectionTwo":"O Allah! All the praises are for you ,You are the Lord of the Heavens and the Earth, And whatever is in them. All praise is to You ,You are the Exalted in Might, the Wise. So All praise is to You, You are the Powerful, the Exalted in Might. So All Praise is to You ,You are the Forgiving, the Merciful. So All Praise is to You You are the Hearing, the Seeing. So All Praise is to You",
+        "sectionThree":"[O Allah] You are The First, there is nothing before You. So All praise is to You And You are The Last, there is nothing after You. So All praise is to You And You are The Manifest, there is nothing above You. So All praise is to You And You are The Hidden, there is nothing below You. So All praise is to You",
+        "sectionFour":"O Allah, we ask You for Paradise and whatever draws us near to it from speech and deed.And we seek refuge in You from Hell and from whatever draws us near to it from speech and deed.By Your mercy, O Most-Merciful of those who have mercy."
+    },
+    "family-profile":{
+        "title":"Aal Shahaat"
+    }
+
+    ,"placeHolders":{
+        "header":"Contact Us and keep in touch",
+        "intro":"Your message is very important to us.",
+        "name":"Full Name",
+        "email":"Email Address",
+        "message":"Kindly , leave your message here",
+        "sendBtn":"Send"
+    }
+
+}
