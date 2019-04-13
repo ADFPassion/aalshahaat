@@ -1,0 +1,34 @@
+.btn-en-flag{
+    background-color: 	#0157ae;
+    &:hover,
+    &:focus{
+        outline: 0 !important;
+        background-color: darkgoldenrod;
+    }
+}
+
+.btn-ar-flag{
+    background-color: 	seagreen;
+    &:hover,
+    &:focus{
+        outline: 0 !important;
+        background-color:darkgoldenrod;
+    }
+}
+
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+    color:darkorange;
+    font-weight: bold;
+  }
+  ::-moz-placeholder { /* Firefox 19+ */
+    color: darkorange;
+  }
+  :-ms-input-placeholder { /* IE 10+ */
+    color: darkorange;
+  }
+  :-moz-placeholder { /* Firefox 18- */
+    color: darkorange;
+  }
+
+
+
